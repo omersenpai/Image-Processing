@@ -1,6 +1,4 @@
-#Gruptaki kişiler:
-#1200505014-Ceren Gül-Durmuş
-#1200505054-Ömer Tarık-Sargın
+
 
 
 import cv2
